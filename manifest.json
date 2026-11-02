@@ -1,0 +1,23 @@
+{
+ "name": "O’ge — Focus & Wealth",
+ "short_name": "O’ge",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#12201B",
+ "theme_color": "#0F1B17",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
